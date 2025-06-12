@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Breda Kathuri"
-  avatar : "/assets/images/DSC_0273.jpg"
+  avatar : "/assets/images/DSC_0273.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
